@@ -1,4 +1,12 @@
-$myColor: yellow;
+@import 'abstracts/_variables';
+@import 'abstracts/_mixins';
+
+@import "base/_base";
+
+
+
+
+$myColor: red;
 $myFontSize: 18px;
 
 h1 {
